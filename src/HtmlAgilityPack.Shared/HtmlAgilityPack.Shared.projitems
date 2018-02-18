@@ -30,6 +30,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)HtmlEntity.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)HtmlNameTable.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)HtmlNode.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HtmlNode.Encapsulator.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)HtmlNode.Xpath.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)HtmlNodeCollection.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)HtmlNodeNavigator.cs" />
@@ -42,6 +43,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)HtmlWebException.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)InvalidProgramException.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)IOLibrary.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Metro\HtmlWeb.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Metro\InvalidProgramException.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MixedCodeDocument.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MixedCodeDocumentCodeFragment.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MixedCodeDocumentFragment.cs" />
